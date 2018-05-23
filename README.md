@@ -1,3 +1,3 @@
 # DashboardLaravel
-Simple Laravel dashboard using QuickAdmin  
-Link to QuickAdmin repo: https://github.com/LaravelDaily/quickadmin
+Simple Laravel dashboard using Voyager!!  
+Link to Voyager repo: https://github.com/the-control-group/voyager
